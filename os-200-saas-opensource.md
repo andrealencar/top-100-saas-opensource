@@ -1,6 +1,4 @@
 # Alternativas incríveis de código aberto para SaaS
-Incrível.
-
 
 ## Critérios
 A empresa de código aberto é adicionada à lista se:
@@ -10,10 +8,6 @@ A empresa de código aberto é adicionada à lista se:
 4. Seu repositório tem mais de 100 estrelas no GitHub
 
 As coisas mudam muito rápido no mundo das startups, então esta lista não pode estar totalmente completa, nem 100% atualizada.
-
-Link original em:
-
-https://github.com/andrealencar/awesome-oss-alternatives
 
 
 --------------------
